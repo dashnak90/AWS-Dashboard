@@ -1,3 +1,5 @@
+# AWS-Dashboard
+###### This project was completed in Week 5 of the Data Science bootcamp at SPICED Academy.
 In this project, I built a dashboard summarizing the Northwind Database. The database contains all sales transactions between the company and its customers as well as purchases from Northwinds suppliers.
 The data was imported into a local Postgres database, then hosted on AWS RDS and EC2, which was connected to Metabase to run continuously.
 
